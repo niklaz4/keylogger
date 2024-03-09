@@ -13,6 +13,6 @@ A implementação apresentada é um keylogger simples em C++, por ser uma lingua
 
 <b>Limitações e Considerações de Segurança</b>: É importante ressaltar que este keylogger é apenas um exemplo educacional e não deve ser usado para fins maliciosos. Além disso, este keylogger possui algumas limitações e considerações de segurança:<br>
 
-<ul>Este keylogger só funciona em sistemas operacionais Windows devido ao uso da biblioteca Windows.h.
-O programa deve ser executado com privilégios de administrador para funcionar corretamente.
+<ul>Este keylogger só funciona em sistemas operacionais Windows devido ao uso da biblioteca Windows.h.<br>
+O programa deve ser executado com privilégios de administrador para funcionar corretamente.<br>
 O keylogger pode ser detectado por software antivírus como uma ameaça de segurança.</ul><br>
