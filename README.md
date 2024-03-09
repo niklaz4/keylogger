@@ -9,7 +9,7 @@ A implementação apresentada é um keylogger simples em C++, por ser uma lingua
 
 <b>Escrita no Arquivo de Log</b>: O arquivo de log é aberto em modo de escrita, leitura e atualização utilizando a função open da classe ofstream da biblioteca fstream. A cada tecla pressionada, o código da tecla é escrito no arquivo de log. Além disso, algumas teclas especiais, como SHIFT, ESCAPE e ENTER, são tratadas de forma diferente para facilitar a interpretação do arquivo de log. <br>
 
-<b>Ocultação do Console</b>: Para tornar o keylogger mais discreto, a janela do console é escondida utilizando a função FindWindowA para encontrar a janela do console e ShowWindow para ocultá-la.<br><br>
+<b>Ocultação do Console</b>: Para tornar o keylogger mais discreto, a janela do console é escondida utilizando a função FindWindowA para encontrar a janela do console e ShowWindow para ocultá-la.<br>
 
 <b>Limitações e Considerações de Segurança</b>: É importante ressaltar que este keylogger é apenas um exemplo educacional e não deve ser usado para fins maliciosos. Além disso, este keylogger possui algumas limitações e considerações de segurança:<br>
 
